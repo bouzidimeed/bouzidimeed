@@ -3,7 +3,7 @@
 AI Engineer passionate about building intelligent systems and scalable software solutions.  
 Currently working on **Multimodal AI** research projects and **Odoo-based business solutions**.
 
----
+-------
 
 ## 🚀 About Me
 
