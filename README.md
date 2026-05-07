@@ -54,12 +54,3 @@ Currently working on **Multimodal AI** research projects and **Odoo-based busine
 
 - LinkedIn: [Bouzid Imed](https://www.linkedin.com/in/imed-bouzid-889618378?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
