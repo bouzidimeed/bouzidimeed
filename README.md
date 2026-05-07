@@ -47,9 +47,6 @@ Currently working on **Multimodal AI** research projects and **Odoo-based busine
 - Multimodal Sentiment Analysis and Emotion Recognition
 - Odoo ERP Development
 
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: [Bouzid Imed](https://www.linkedin.com/in/imed-bouzid-889618378?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
