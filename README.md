@@ -7,7 +7,7 @@ Currently working on **Multimodal AI** research projects and **Odoo-based busine
 
 ## 🚀 About Me
 
-- 🎓 AI Engineering student
+- 🎓 AI Engineering
 - 🤖 Interested in Multimodal AI, NLP, Computer Vision, and Deep Learning
 - 📱 Mobile Developer with Flutter
 - 🌐 Full-stack and Backend Development experience
@@ -38,19 +38,15 @@ Currently working on **Multimodal AI** research projects and **Odoo-based busine
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 
 ---
 
 ## 🔥 Current Focus
 
-- Multimodal Sentiment Analysis
-- Large Language Models (LLMs)
+- Multimodal Sentiment Analysis and Emotion Recognition
 - Odoo ERP Development
-- Recommendation Systems
-- Remote Sensing & Satellite Image Analysis
+
 
 ---
 
