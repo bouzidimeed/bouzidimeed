@@ -7,7 +7,7 @@ Currently working on **Multimodal AI** research projects and **Odoo-based busine
 
 ## 🚀 About Me
 
-- 🎓 AI Engineering
+- 🎓 AI Engineer
 - 🤖 Interested in Multimodal AI, NLP, Computer Vision, and Deep Learning
 - 📱 Mobile Developer with Flutter
 - 🌐 Full-stack and Backend Development experience
